@@ -21,3 +21,8 @@ Requests
 HTML reports
 CI/CD integration
 Authentication testing
+
+## Features
+API validation
+Status code verification
+JSON response testing
